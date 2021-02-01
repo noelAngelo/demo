@@ -21,6 +21,7 @@
             "count":2,
             "contacts":[
                {
+                  "id": 1,
                   "full_name":"John Doe",
                   "title":"Solution Architect",
                   "company":"Fujitsu",
@@ -30,6 +31,7 @@
                   "description":"Lorem ipsum"
                },
                {
+                  "id": 2,
                   "full_name":"Jane Doe",
                   "title":"Solution Architect",
                   "company":"Accenture",
@@ -47,6 +49,7 @@
             "count":2,
             "contacts":[
                {
+                  "id": 3,
                   "full_name":"John Doe",
                   "title":"Solution Architect",
                   "company":"Fujitsu",
@@ -56,6 +59,7 @@
                   "description":"Lorem ipsum"
                },
                {
+                  "id": 4,
                   "full_name":"Jane Doe",
                   "title":"Solution Architect",
                   "company":"Accenture",
