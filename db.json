@@ -1,28 +1,56 @@
 {
-   "software":{
-      "vertical":"Software",
-      "title":"Solution Architect",
-      "core":null,
-      "count":2,
-      "data":[
-         {
-            "full_name":"John Doe",
-            "title":"Solution Architect",
-            "company":"Fujitsu",
-            "summary":"Lorem ipsum",
-            "start_date":"2019-01-01T00:00:00.000Z",
-            "end_date":"2019-11-30T13:00:00.000Z",
-            "description":"Lorem ipsum"
-         },
-         {
-            "full_name":"Jane Doe",
-            "title":"Solution Architect",
-            "company":"Accenture",
-            "summary":"Lorem ipsum",
-            "start_date":"2019-01-01T00:00:00.000Z",
-            "end_date":"2019-11-30T13:00:00.000Z",
-            "description":"Lorem ipsum"
-         }
+  "data": [
+    {
+      "vertical": "Software",
+      "title": "Solution Architect",
+      "core": null,
+      "count": 2,
+      "data": [
+        {
+          "full_name": "John Doe",
+          "title": "Solution Architect",
+          "company": "Fujitsu",
+          "summary": "Lorem ipsum",
+          "start_date": "2019-01-01T00:00:00.000Z",
+          "end_date": "2019-11-30T13:00:00.000Z",
+          "description": "Lorem ipsum"
+        },
+        {
+          "full_name": "Jane Doe",
+          "title": "Solution Architect",
+          "company": "Accenture",
+          "summary": "Lorem ipsum",
+          "start_date": "2019-01-01T00:00:00.000Z",
+          "end_date": "2019-11-30T13:00:00.000Z",
+          "description": "Lorem ipsum"
+        }
       ]
-   }
+    },
+    {
+      "vertical": "Software",
+      "title": "Solution Architect",
+      "core": null,
+      "count": 2,
+      "data": [
+        {
+          "full_name": "John Doe",
+          "title": "Solution Architect",
+          "company": "Fujitsu",
+          "summary": "Lorem ipsum",
+          "start_date": "2019-01-01T00:00:00.000Z",
+          "end_date": "2019-11-30T13:00:00.000Z",
+          "description": "Lorem ipsum"
+        },
+        {
+          "full_name": "Jane Doe",
+          "title": "Solution Architect",
+          "company": "Accenture",
+          "summary": "Lorem ipsum",
+          "start_date": "2019-01-01T00:00:00.000Z",
+          "end_date": "2019-11-30T13:00:00.000Z",
+          "description": "Lorem ipsum"
+        }
+      ]
+    }
+  ]
 }
