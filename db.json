@@ -1,14 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "vertical": "Software",
+  "title": "Solution Architect",
+  "core": null,
+  "count": 2,
+  "data": [
+    {
+      "full_name": "John Doe",
+      "title": "Solution Architect",
+      "company": "Fujitsu",
+      "summary": "Lorem ipsum",
+      "start_date": "2019-01-01T00:00:00.000Z",
+      "end_date": "2019-11-30T13:00:00.000Z",
+      "description": "Lorem ipsum"
+    },
+    {
+      "full_name": "Jane Doe",
+      "title": "Solution Architect",
+      "company": "Accenture",
+      "summary": "Lorem ipsum",
+      "start_date": "2019-01-01T00:00:00.000Z",
+      "end_date": "2019-11-30T13:00:00.000Z",
+      "description": "Lorem ipsum"
+    }
+  ]
 }
