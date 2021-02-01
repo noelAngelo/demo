@@ -1,56 +1,69 @@
 {
-  "data": [
-    {
-      "vertical": "Software",
-      "title": "Solution Architect",
-      "core": null,
-      "count": 2,
-      "data": [
-        {
-          "full_name": "John Doe",
-          "title": "Solution Architect",
-          "company": "Fujitsu",
-          "summary": "Lorem ipsum",
-          "start_date": "2019-01-01T00:00:00.000Z",
-          "end_date": "2019-11-30T13:00:00.000Z",
-          "description": "Lorem ipsum"
-        },
-        {
-          "full_name": "Jane Doe",
-          "title": "Solution Architect",
-          "company": "Accenture",
-          "summary": "Lorem ipsum",
-          "start_date": "2019-01-01T00:00:00.000Z",
-          "end_date": "2019-11-30T13:00:00.000Z",
-          "description": "Lorem ipsum"
-        }
+   "sample":{
+      "data":[
+         {
+            "id":"1",
+            "name":"Tiger Nixon",
+            "position":"System Architect",
+            "salary":"$320,800",
+            "start_date":"2011/04/25",
+            "office":"Edinburgh",
+            "extn":"5421"
+         }
       ]
-    },
-    {
-      "vertical": "Software",
-      "title": "Solution Architect",
-      "core": null,
-      "count": 2,
-      "data": [
-        {
-          "full_name": "John Doe",
-          "title": "Solution Architect",
-          "company": "Fujitsu",
-          "summary": "Lorem ipsum",
-          "start_date": "2019-01-01T00:00:00.000Z",
-          "end_date": "2019-11-30T13:00:00.000Z",
-          "description": "Lorem ipsum"
-        },
-        {
-          "full_name": "Jane Doe",
-          "title": "Solution Architect",
-          "company": "Accenture",
-          "summary": "Lorem ipsum",
-          "start_date": "2019-01-01T00:00:00.000Z",
-          "end_date": "2019-11-30T13:00:00.000Z",
-          "description": "Lorem ipsum"
-        }
-      ]
-    }
-  ]
+   },
+   "data":[
+      {
+         "vertical":"Software",
+         "title":"Solution Architect",
+         "core":null,
+         "count":2,
+         "data":[
+            {
+               "full_name":"John Doe",
+               "title":"Solution Architect",
+               "company":"Fujitsu",
+               "summary":"Lorem ipsum",
+               "start_date":"2019-01-01T00:00:00.000Z",
+               "end_date":"2019-11-30T13:00:00.000Z",
+               "description":"Lorem ipsum"
+            },
+            {
+               "full_name":"Jane Doe",
+               "title":"Solution Architect",
+               "company":"Accenture",
+               "summary":"Lorem ipsum",
+               "start_date":"2019-01-01T00:00:00.000Z",
+               "end_date":"2019-11-30T13:00:00.000Z",
+               "description":"Lorem ipsum"
+            }
+         ]
+      },
+      {
+         "vertical":"Software",
+         "title":"Solution Architect",
+         "core":null,
+         "count":2,
+         "data":[
+            {
+               "full_name":"John Doe",
+               "title":"Solution Architect",
+               "company":"Fujitsu",
+               "summary":"Lorem ipsum",
+               "start_date":"2019-01-01T00:00:00.000Z",
+               "end_date":"2019-11-30T13:00:00.000Z",
+               "description":"Lorem ipsum"
+            },
+            {
+               "full_name":"Jane Doe",
+               "title":"Solution Architect",
+               "company":"Accenture",
+               "summary":"Lorem ipsum",
+               "start_date":"2019-01-01T00:00:00.000Z",
+               "end_date":"2019-11-30T13:00:00.000Z",
+               "description":"Lorem ipsum"
+            }
+         ]
+      }
+   ]
 }
